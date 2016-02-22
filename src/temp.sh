@@ -1,16 +1,3 @@
-# =====================================================================
-# Name:		Edgar Sanchez
-# Course:	CSCE 3600
-# Date:		Feb 22, 2016
-# Title:	Minor Assignment 4
-# Version:	1.0
-# Description:	A bash script called myseq that prints a 
-#               sequence of integers to the screen based on 
-#               the command line arguments..
-# Format:	myseq [start] stop [step]
-# =====================================================================
-
-#!/bin/bash
 
 # User greeting.
 echo "Good day, $1! Nice to meet you!"
@@ -63,3 +50,4 @@ do
 		*)  echo "Thanks, $1! Have a great day!"; exit ;;
 	esac
 done
+*/
